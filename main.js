@@ -23,7 +23,7 @@ function transposeTwoStrings (arr) {
   return result.join('\n');
 }
 
-console.log(transposeTwoStrings(['Hello', 'World']))
+console.log(transposeTwoStrings(['Hello', 'World']));
 
 // KATA 3 7kyu
 // https://www.codewars.com/kata/59414b46d040b7b8f7000021/train/javascript
@@ -57,11 +57,11 @@ function tacofy(word) {
   return taco;
 }
 
-console.log(tacofy(''))
-console.log(tacofy('Aa'))
-console.log(tacofy('ggg'))
-console.log(tacofy('ogl'))
-console.log(tacofy('ydjkpwqrzto'))
+console.log(tacofy(''));
+console.log(tacofy('Aa'));
+console.log(tacofy('ggg'));
+console.log(tacofy('ogl'));
+console.log(tacofy('ydjkpwqrzto'));
 
 // KATA 4 6kyu
 // https://www.codewars.com/kata/556021360863a1708900007b/train/javascript
